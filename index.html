@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <title>Belajar Desain UI/UX & Pemrograman Web</title>
+</head>
+<body style="margin: 0; background-image: url('assets/img/Code_Generated_Image.png');">
+
+    <header style="margin: 0; display: flex; align-items: center; background-color: #aaaaaa; background: rgba(250, 250, 250, 0.5);">
+        <img src="assets/img/foto-removebg-preview.png" alt="Foto Kelompok 13" style="width: 100px; height: 100px;">
+        <div>
+            <h2 style="margin: 0;">Kelompok 13</h2>
+            <p style="margin: 0px;">Desain UI/UX & Pemrograman Web</p>
+        </div>
+    </header>
+    <hr style="margin-top: auto; border: 1px solid #383838;">
+</body>
+<main style="max-width: 1000px; margin: 0 auto; padding: 0px;">
+        <div style="font-size: 0.9rem; text-align: center;  border: 1px solid #383838; border-radius: 8px; background: #e3e3e3; margin: 15px;">
+            <h2 style="margin: auto; background-color: #aaaaaa;">Intro</h2><hr style="margin-top: auto;">
+            <p style="margin: 5px;">Perkenalkan, kami adalah Kelompok 13 mata kuliah Desain UI/UX Pemrograman Web, Program Studi Teknik Informatika STT Terpadu Nurul Fikri.</p>
+            <p style="margin: 5px;">Kami memiliki tujuan untuk mengembangkan keterampilan dalam merancang antarmuka pengguna yang menarik dan fungsional.</p>
+            <p style="margin: 5px;">Dengan kolaborasi dan kerja sama yang baik, kami berharap dapat menciptakan solusi digital yang inovatif dan bermanfaat bagi pengguna.</p>
+        </div>
+    <section style="border: 1px solid #383838;border-radius: 8px;padding: 12px 12px;margin: 15px;background-color: #e3e3e3;">
+        <div style="text-align: center;  border: 1px solid #383838; border-radius: 8px; padding: 12px 16px; margin-bottom: 16px; background: #aaaaaa; ">
+            <h2 style="margin: 0;">Anggota Kelompok</h2>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;" >
+            <!-- Anggota 1 -->
+            <article id="anggota-1" class="anggota">
+                <header style="border: 1px solid #383838; border-radius: 8px; background: #aaaaaa; padding: 1px 1px">
+                    <h3 style="text-align: center;font-size: 0.9rem;">Khairul</h3>
+                </header>
+                <div class="anggota-body">
+                    <figure>
+                        <img src="assets/img/foto_3_1x1.png" alt="Foto Khairul" style="width: 188px; height: 188px; border-radius: 5%; border: 2px solid #000000;">
+                    </figure>
+                    <table>
+                        <tr>
+                            <th>NIM</th>
+                            <td>: 0110226104</td>
+                        </tr>
+                        <tr>
+                            <th>Nama</th>
+                            <td>: Muhammad Khairul Fadilah</td>
+                        </tr>
+                        <tr>
+                            <th>Program Studi</th>
+                            <td>: Teknik Informatika</td>
+                        </tr>
+                        <tr>
+                            <th>Kelas</th>
+                            <td>: TI-01</td>
+                        </tr>
+                        <tr>
+                            <th>Alamat</th>
+                            <td>: Cibinong, Kabupaten Bogor</td>
+                        </tr>
+                    </table>
+                </div>
+            </article>
+
+            <!-- Anggota 2 -->
+            <article id="anggota-2" class="anggota">
+                <header style="border: 1px solid #383838; border-radius: 8px; background: #aaaaaa; padding: 1px 1px">
+                    <h3 style="text-align: center ;font-size: 0.9rem;">Nabil</h3>
+                </header>
+                <div class="anggota-body">
+                    <figure>
+                        <img src="assets/img/foto_2_1x1.png" alt="Foto Nabil" style="width: 188px; height: 188px; border-radius: 5%; border: 2px solid #000000;">
+                    </figure>
+                    <table>
+                        <tr>
+                            <th>NIM</th>
+                            <td>: 0110226018</td>
+                        </tr>
+                        <tr>
+                            <th>Nama</th>
+                            <td>: Nabil Fadillah Ramadhan</td>
+                        </tr>
+                        <tr>
+                            <th>Program Studi</th>
+                            <td>: Teknik Informatika</td>
+                        </tr>
+                        <tr>
+                            <th>Kelas</th>
+                            <td>: TI-01</td>
+                        </tr>
+                        <tr>
+                            <th>Alamat</th>
+                            <td>: Depok, Kota Depok</td>
+                        </tr>
+                    </table>
+                </div>
+            </article>
+
+            <!-- Anggota 3 -->
+            <article id="anggota-3" class="anggota">
+                <header style="border: 1px solid #383838; border-radius: 8px; background: #aaaaaa; padding: 1px 1px">
+                    <h3 style="text-align: center ;font-size: 0.9rem;">Jiddan</h3>
+                </header>
+                <div class="anggota-body">
+                    <figure>
+                        <img src="assets/img/foto_1_1x1.png" alt="Foto Jiddan" style="width: 188px; height: 188px; border-radius: 5%; border: 2px solid #000000;">
+                    </figure>
+                    <table>
+                        <tr>
+                            <th>NIM</th>
+                            <td>: 0110226019</td>
+                        </tr>
+                        <tr>
+                            <th>Nama</th>
+                            <td>: Jiddan Fadillah Ramadhan</td>
+                        </tr>
+                        <tr>
+                            <th>Program Studi</th>
+                            <td>: Teknik Informatika</td>
+                        </tr>
+                        <tr>
+                            <th>Kelas</th>
+                            <td>: TI-01</td>
+                        </tr>
+                        <tr>
+                            <th>Alamat</th>
+                            <td>: Jakarta, Kota Jakarta</td>
+                        </tr>
+                    </table>
+                </div>
+            </article>
+
+            <article id="anggota-4" class="anggota">
+                <header style="border: 1px solid #383838; border-radius: 8px; background: #aaaaaa; padding: 1px 1px">
+                    <h3 style="text-align: center ;font-size: 0.9rem;">Nazim</h3>
+                </header>
+                <div class="anggota-body">
+                    <figure>
+                        <img src="assets/img/foto_4_1x1.png" alt="Foto Nazim" style="width: 188px; height: 188px; border-radius: 5%; border: 2px solid #000000;">      
+                    </figure>
+                    <table>
+                        <tr>
+                            <th>NIM</th>
+                            <td>: 0110226147</td>
+                        </tr>
+                        <tr>
+                            <th>Nama</th>
+                            <td>: Nazim Fadillah Ramadhan</td>
+                        </tr>
+                        <tr>
+                            <th>Program Studi</th>
+                            <td>: Teknik Informatika</td>
+                        </tr>
+                        <tr>
+                            <th>Kelas</th>
+                            <td>: TI-01</td>
+                        </tr>
+                        <tr>
+                            <th>Alamat</th>
+                            <td>: Komplek Pelni,Jalan ganggamasetiaraya</td>
+                        </tr>
+                    </table>
+                </div>
+            </article>
+        </div>
+    </section>
+</main>
+<footer style="text-align: center; padding: 10px; background-color: #aaaaaa; background: rgba(250, 250, 250, 0.5); border-top: 1px solid #383838;">
+    <p style="margin: 0;">Tugas Desain UI/UX dan Pemrograman Web</p>
+    <p style="margin: 0;">Creator: Muhammad Khairul Fadilah</p>
+</footer>
+</html>
+<style>
+    .anggota {
+        border: 1px solid #383838;
+        border-radius: 8px;
+        padding: 12px 16px;
+        background-color: #ffffff;
+    }
+    .anggota-body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+</style>
